@@ -7,7 +7,6 @@ import heart from "./assets/heart.png";
 import HeartTrailCursor from "./HeartTrailCursor";
 import { useNavigate } from "react-router-dom";
 import TransitionWrapper from "./TransitionWrapper"; 
-import MusicToggle from "./MusicToggle"; 
 
 function App() {
   const [startTransition, setStartTransition] = useState(false);

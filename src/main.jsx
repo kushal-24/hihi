@@ -7,7 +7,6 @@ import Letter from "./Letter.jsx";
 import "@fortawesome/fontawesome-free/css/all.min.css";
 import Rily from "./Rily.jsx";
 import HeartCatcherGame from "./HeartCatcherGame.jsx";
-import MusicToggle from "./MusicToggle.jsx";
 import LocalVideoPlayer from "./LocalVideoPLayer.jsx";
 import { createBrowserRouter, RouterProvider } from "react-router-dom";
 import DreamyFutureRoadmap from "./DreamyFutureRoadmap.jsx";

@@ -169,6 +169,7 @@ import React from 'react';
 import one from "./assets/one.jpeg";
 import two from "./assets/two.jpeg";
 import three from "./assets/three.jpeg";
+import four from "./assets/four.jpeg";
 import five from "./assets/five.jpeg";
 import between from "./assets/between.jpg";
 import seven from "./assets/seven.jpeg";
@@ -185,9 +186,9 @@ import sixteen from "./assets/sixteen.jpeg";
 const FUTURE_POINTS = [
   { id: 1, title: "First meet out of school, with myy favvv personn", date: "2021 Q1", content: "Our first meet outside school, got me knowing your address, happyy dayyy, best moment taking a selfie hihi!", photosrc:one},
   { id: 2, title: "The place where it all startedd 🕺🏻", date: "2022 Q1", content: "The first time when I realised how do butterflies in stomach feel like, a rush of emotions and overjoyed happiness", photosrc:two },
-  { id: 3, title: "Cycling dates", date: "2022 Q1", content: "Every evening with youu sitting before the sunset talking for hours", photosrc: four },
+  { id: 3, title: "Cycling dates", date: "2022 Q1", content: "Every evening with youu sitting before the sunset talking for hours", photosrc:four },
   { id: 4, title: "home alone, 1st time hihihi", date: "2022 Q1", content: "The day when we met literally met three times, like three essential meals, ekdam a necessity ;)", photosrc: three},
-  { id: 5, title: "wohooo, half a year complete", date: "2022 Q3", content: "My first surprise visit to my cutuu", photosrc: "../src/assets/five.jpeg" },
+  { id: 5, title: "wohooo, half a year complete", date: "2022 Q3", content: "My first surprise visit to my cutuu", photosrc: five },
   { id: 6, title: "The Jim to my Pam --Manuu", date: "2022 Q3", content: "One of our cutest pictures, my babyy in her cutuu tank top", photosrc: between },
   { id: 7, title: "Imrpromptu plan to bandstand", date: "2024 Q3", content: "Visit to her home, eventually leading us to leave for bandra cuz we didn't feel like going opposite ways ;)", photosrc: seven},
   { id: 8, title: "Our first time to Marines", date: "2024 Q3", content: "A day filled with rollercoaster of emotions, cutuu by my sidee all dayy", photosrc:eight },
